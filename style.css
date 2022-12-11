@@ -728,10 +728,12 @@ body{
 
   .home .banner{
     font-size: 4rem;
+    font-weight: 800;
   }
 
   .home .slogan{
     font-size: 1.7rem;
+    font-weight: 600;
   }
 
   .about .row{
