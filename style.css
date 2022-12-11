@@ -731,11 +731,13 @@ body{
   .home .banner{
     font-size: 4rem;
     font-weight: 800;
+    letter-spacing: 0.8rem;
   }
 
   .home .slogan{
     font-size: 1.7rem;
     font-weight: 900;
+    letter-spacing: 0.8rem;
   }
 
   .about .row{
