@@ -206,7 +206,7 @@ body{
   background: url(images/wave.png);
   background-size: 100rem 11rem;
   background-repeat: repeat-x;
-  animation:waves 10s linear infinite;
+  animation:waves 6s linear infinite;
 }
 
 .home .wave2{
