@@ -689,6 +689,7 @@ body{
 @media (max-width:768px){
 
   html{
+    scroll-behavior: smooth;
     font-size: 50%;
   }
 
